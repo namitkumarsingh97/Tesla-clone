@@ -2,7 +2,7 @@
 
 Created with CodeSandbox
 
-Hoisted Link: https://csb-96mts.netlify.app/
+Hosted Link: https://csb-96mts.netlify.app/
 
 Dependencies Required:
 
